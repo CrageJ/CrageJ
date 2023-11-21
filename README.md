@@ -1,6 +1,5 @@
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/CrageJ?theme=nord&font=IM%20Fell%20DW%20Pica&ext=heatmap)
-![LeetCode Stats](https://leetcard.jacoblin.cool/CrageJ?theme=nord&font=Lucidia%20Blackletter&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/CrageJ?theme=nord&font=UnifrakturCook&ext=heatmap)
 <!--
 **CrageJ/CrageJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
