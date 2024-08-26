@@ -1,3 +1,4 @@
+# [CRAGEJ.COM](cragej.com)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/CrageJ?theme=nord&font=UnifrakturCook&ext=heatmap)
 <!--
