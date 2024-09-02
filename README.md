@@ -1,5 +1,11 @@
 # [CRAGEJ.COM](https://cragej.com)
 
+Stuff I'm working on at the moment:  
+- RateYourMusic.com topster3 manager
+- Uni schoolwork :(
+
+
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/CrageJ?theme=nord&font=UnifrakturCook&ext=heatmap)
 <!--
 **CrageJ/CrageJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
